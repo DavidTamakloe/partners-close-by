@@ -1,0 +1,14 @@
+{
+  "name": "partnerscloseby",
+  "version": "1.0.0",
+  "description": "A program that reads a list of partners from a json file and returns a sorted list of partners within 100km of central London.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Tamakloe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
